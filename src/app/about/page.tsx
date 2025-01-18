@@ -47,7 +47,7 @@ const About = () => {
         />
         <div className="border-2 bg-slate-200 w-full md:w-3/5 p-8 md:p-20">
           <h1 className="text-xl md:text-2xl text-custom-purple">
-            Our service isn&lsquo;t just personal, it&lsquo;s actually hyper-personally exquisite
+            Our service is not just personal, its actually hyper-personally exquisite
           </h1>
           <p className="text-custom-purple mt-6">
             When we started Avion, the idea was simple. Make high-quality furniture affordable and available for the
